@@ -16,6 +16,7 @@ Step 4: Check the results:
 - Check the results in "dataset/fake"
 
 If you use this repo in your work, please, cite:
+
 @article{attia2018realistic,
   title={Realistic hair simulator for skin lesion images using conditional generative adversarial network},
   author={Attia, Mohamed and Hossny, Mohammed and Zhou, Hailing and Yazdabadi, Anosha and Asadi, Hamed and Nahavandi, Saeid},
