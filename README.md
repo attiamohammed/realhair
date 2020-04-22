@@ -15,9 +15,9 @@ Step 3: Generate synthetic hair image:
 Step 4: Check the results:
 - Check the results in "dataset/fake"
 
-If you use this repo in your work, please, cite:
+# If you use this repo in your work, please, cite using bibtex enteries:
 
-@article{attia2018realistic,
+1. @article{attia2018realistic,
   title={Realistic hair simulator for skin lesion images using conditional generative adversarial network},
   author={Attia, Mohamed and Hossny, Mohammed and Zhou, Hailing and Yazdabadi, Anosha and Asadi, Hamed and Nahavandi, Saeid},
   journal={[Unknown]},
@@ -26,7 +26,7 @@ If you use this repo in your work, please, cite:
   publisher={[MDPI]}
 }
 
-@article{attia2019digital,
+2. @article{attia2019digital,
   title={Digital hair segmentation using hybrid convolutional and recurrent neural networks architecture},
   author={Attia, Mohamed and Hossny, Mohammed and Zhou, Hailing and Nahavandi, Saeid and Asadi, Hamed and Yazdabadi, Anousha},
   journal={Computer methods and programs in biomedicine},
